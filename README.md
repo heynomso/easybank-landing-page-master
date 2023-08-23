@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Repository URL: 
+- Solution URL: https://heynomso.github.io/easybank-landing-page-master/
+- Repository URL: https://github.com/heynomso/easybank-landing-page-master
 
 ### Built with
 
