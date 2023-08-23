@@ -30,7 +30,8 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
--Grid layout
+- JavaScript
+- Grid layout
 - Mobile-first workflow
 - SCSS (Sassy Cascading Style Sheets) - For nesting CSS code
 
